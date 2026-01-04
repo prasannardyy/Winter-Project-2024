@@ -1,0 +1,8 @@
+Test Case ID,Scenario,Steps,Expected Result,Pass/Fail
+TC-001,User Registration,1. Go to Register Page 2. Enter valid details 3. Submit,User created and redirected to Dashboard,PASS
+TC-002,Login Valid,1. Go to Login 2. Enter valid creds,Login success,PASS
+TC-003,Login Invalid,1. Enter wrong password,Show 'Invalid credentials' error,PASS
+TC-004,Upload Document,1. Dashboard -> Upload 2. Select JPG file 3. Submit,Upload success message shown,PASS
+TC-005,OCR Extraction,1. Upload Image with Text 2. Wait for result,Extracted text displayed on screen,PASS
+TC-006,Admin View Pending,1. Login as Admin 2. Go to /admin,List of pending docs shown,PASS
+TC-007,Admin Approve,1. Click Approve on Doc,Status changes to VERIFIED,PASS

@@ -1,0 +1,10 @@
+Req ID,Requirement Description,Test Case ID,Module,Status
+FR-01,User Registration & Login,TC-001,Auth,Implemented
+FR-02,Document Upload (ID/Address),TC-002,Document,Implemented
+FR-03,AI Image Quality Check,TC-003,AI Agent,Pending
+FR-04,OCR Data Extraction,TC-004,AI Agent,Implemented (Tesseract)
+FR-05,Document Verification Logic,TC-005,Backend,Implemented
+FR-06,Admin Verification Queue,TC-006,Admin,Implemented
+FR-07,Real-time Notifications,TC-007,Notification,Simulated
+NFR-01,Security (JWT),TC-SEC-01,Auth,Implemented
+NFR-02,Scalability (Microservices),TC-ARC-01,Architecture,Designed
