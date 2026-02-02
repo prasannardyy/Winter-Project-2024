@@ -1,5 +1,6 @@
 # Application Architecture Document
 **Project:** Banking KYC Verification System
+
 **Date:** 2025-12-30
 
 ## 1. High-Level Architecture
