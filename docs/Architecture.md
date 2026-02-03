@@ -1,5 +1,5 @@
 # Application Architecture Document
-**Project:** Banking KYC Verification System
+**Project:** Banking KYC Verification SysteM
 
 **Date:** 2025-12-30
 
